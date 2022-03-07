@@ -7,7 +7,7 @@ class resume_window:
         self.master=master
         self.master.geometry("1000x600")
         self.master.title("Resume")
-
+#comments
         
 
         Label(self.master,text="Name",bd=11,relief=RAISED,bg="red",font=("times new roman",30,"bold"),pady=2).pack(fill=X)
